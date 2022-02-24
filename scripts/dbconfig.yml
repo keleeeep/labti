@@ -1,0 +1,5 @@
+local:
+  dialect: mysql
+  datasource: root:labti@tcp(127.0.0.1:3306)/workshop-labti?parseTime=true
+  dir: migrations
+  table: migrations

@@ -1,1 +1,1 @@
-# labti
+# workshop-labti
